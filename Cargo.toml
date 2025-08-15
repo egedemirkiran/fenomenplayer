@@ -1,0 +1,24 @@
+[package]
+name = "radyofenomen-player-ui"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+yew = { version = "0.21", features = ["csr"] }
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+web-sys = { version = "0.3", features = ["HtmlAudioElement"] }
+js-sys = "0.3"
+serde = { version = "1", features = ["derive"] }
+serde-wasm-bindgen = "0.6"
+console_error_panic_hook = "0.1.7"
+futures = "0.3.31"
+gloo-timers = "0.3"
+yew_icons = { version = "0.8", features = [
+    "HeroiconsSolidPlay",
+    "HeroiconsSolidPause",
+    "HeroiconsSolidStop",
+] }
+
+[workspace]
+members = ["src-tauri"]

@@ -1,0 +1,14 @@
+[build]
+target = "./index.html"
+public_url = "/"
+
+[watch]
+ignore = ["./src-tauri"]
+
+[serve]
+port = 1420
+open = false
+
+[[copy]]
+source = "src/tailwind.css"
+dest = "tailwind.css"
