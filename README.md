@@ -38,7 +38,7 @@ Radyofenomen'den Türk radyo istasyonlarını dinlemek için modern masaüstü u
 
 ### İndirme
 
-En son sürümü doğrudan indirip kullanmak için [Releases](https://github.com/egedemirkiran/radyofenomen-player/releases) sayfasını ziyaret edin.
+En son sürümü doğrudan indirip kullanmak için [Releases](https://github.com/egedemirkiran/fenomenplayer/releases) sayfasını ziyaret edin.
 
 ## Derleme
 
@@ -93,7 +93,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 Herhangi bir sorunla karşılaşırsanız veya sorularınız varsa:
 
-1. [Issues](https://github.com/egedemirkiran/radyofenomen-player/issues) sayfasını kontrol edin
+1. [Issues](https://github.com/egedemirkiran/fenomenplayer/issues) sayfasını kontrol edin
 2. Sorunu tekrarlamaya çalışın ve detaylı bilgilerle yeni bir issue oluşturun
 3. İşletim sisteminizi ve Rust sürümünüzü belirtin
 
